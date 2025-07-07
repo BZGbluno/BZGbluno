@@ -31,13 +31,13 @@ I am an aspiring Machine Learning Engineer and Software Developer with a passion
   - Built using FastAPI, PostgreSQL, and Hugging Face Transformers
   - Supports chapter-based semantic search, creating flashcards, and chapter summarizations
   - Designed to help students efficiently find learn from textbooks
-***
+
 - [**PowerPack**](https://github.com/BZGbluno/PowerPack)  
   A platform for measuring and optimizing power efficiency in large language model inference.
   - Integrated with NI DAQ hardware and Python-based control systems
   - Measures voltage levels across 3.3V, 5V, and 12V lines in real time at 60,000 datapoints a second
   - Focused on research for energy-efficient genAI applications
-***
+
 - [**Stock Prediction**](https://github.com/BZGbluno/Financial-Forecasting-using-LSTM-Sentiment)  
   A financial forecasting tool using LSTM networks and sentiment analysis from news sources.
   - Combined time series modeling with sentiment from financial tweets

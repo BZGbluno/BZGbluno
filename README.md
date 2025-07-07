@@ -3,7 +3,7 @@
 ---
 
 ### About Me
-<hr style="border: none; border-top: 0.5px solid #ccc; margin: 8px 0;">
+· · · · · · · · · · · · · · · · · · · · ·
 I am an aspiring Machine Learning Engineer and Software Developer with a passion for creating efficient, data-driven solutions to real-world problems. With a background in research, deep learning, natural language processing, and backend development, I strive to bring innovative and creative solutions to every project. I also enjoy giving back to my community and creating tech initiatives that help others.
 
 <p align="center">

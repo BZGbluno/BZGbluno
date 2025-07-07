@@ -2,8 +2,10 @@
 ---
 ### About Me
 I am an aspiring Machine Learning Engineer and Software Developer with a passion for creating efficient, data-driven solutions to real-world problems. With a background in research, deep learning, natural language processing, and backend development, I strive to bring innovative and creative solutions to every project. I also enjoy giving back to my community and creating tech initiatives that help others.
-![1746509363520](https://github.com/user-attachments/assets/298cc015-fae4-4e3a-8987-50b085e1368f)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/298cc015-fae4-4e3a-8987-50b085e1368f" alt="Image" />
+</p>
 ---
 ### What I do
 
